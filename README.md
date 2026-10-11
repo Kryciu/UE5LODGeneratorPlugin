@@ -44,3 +44,7 @@ YourProject/Plugins/LODGenerator
 
 - Unreal Engine 5 (release is compiled only for UE5.6)
 - PythonScriptPlugin
+
+## LODGenerator window
+
+<img width="561" height="494" alt="Zrzut ekranu 2026-10-11 020235" src="https://github.com/user-attachments/assets/15780f4d-ffc0-4f22-b151-2a31315133f0" />
